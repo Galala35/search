@@ -1,6 +1,6 @@
 # search
 Используется WebDriver v2.45.0, FireFox необходим не позже 33 версии.
-смотри https://github.com/SeleniumHQ/selenium/blob/master/dotnet/CHANGELOG
+Смотри https://github.com/SeleniumHQ/selenium/blob/master/dotnet/CHANGELOG
 
 v2.45.0
 =======
